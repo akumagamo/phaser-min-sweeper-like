@@ -2,10 +2,20 @@
 
 ## Versionnumber 0.1.0 (2026-04-10)
 
-A samll demo of a Mine Sweeper like game, made with phaserjs.
+A samll demo of a Mine Sweeper like game, made with phaserjs.  
 
-![Screenshot Gameplay - Game in progress](https://raw.githubusercontent.com/akumagamo/phaser-min-sweeper-like/master/readme/screenshot_0001.png "Game in progress")  
-![Screenshot Gameplay - Win Screen](https://raw.githubusercontent.com/akumagamo/phaser-min-sweeper-like/master/readme/screenshot_0002.png "Win Screen")
+<table>
+  <tr>
+    <td align="center">
+      <img src="readme/screenshot_001.png " title="Screenshot Gameplay - Game in progress" alt="Game in progress"/>
+        <i>Screenshot Gameplay - Game in progress</i>
+    </td>
+    <td align="center">
+      <img src="readme/screenshot_002.png" title="Screenshot Gameplay - Win Screen" alt="Win Screen" />
+        <i>Screenshot Gameplay - Win Screen</i>
+    </td>
+  </tr>
+</table>
 
 ### "Features"
 
