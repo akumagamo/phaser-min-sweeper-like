@@ -183,7 +183,8 @@ class MainScene extends Phaser.Scene {
 			.repeat(ROWS_COUNT)
 			.split("")
 			.map((r) =>
-				"1".repeat(COLS_COUNT)
+				"1"
+					.repeat(COLS_COUNT)
 					.split("")
 					.map((_) => TILES.COVERED),
 			);
@@ -202,11 +203,13 @@ class MainScene extends Phaser.Scene {
 			0,
 			0,
 		);
-		this.mainLayer = map.createLayer(0, tileset, OFFSET, OFFSET + HEADER).setInteractive();
+		this.mainLayer = map
+			.createLayer(0, tileset, OFFSET, OFFSET + HEADER)
+			.setInteractive();
 
-    console.info(this.mainLayer, map, tileset)
+		console.info(this.mainLayer, map, tileset);
 
-    console.info(emptyMapSizeData)
+		console.info(emptyMapSizeData);
 	}
 
 	createStartButton() {
@@ -539,6 +542,7 @@ class MainScene extends Phaser.Scene {
 const config = {
 	width: WIDTH,
 	height: HEIGHT,
+	parent: "app",
 	scene: [MainScene],
 };
 

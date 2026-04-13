@@ -7,6 +7,9 @@
 * Timer
 * Mines Count
 
+# 💣 My Phaser Minesweeper
+[Click here to checkout the Demo!](https://akumagamo.github.io/phaser-min-sweeper-like/)
+
 ### SourceControl Link & Information
 this Document, like to repo: https://github.com/akumagamo/phaser-min-sweeper-like
 
