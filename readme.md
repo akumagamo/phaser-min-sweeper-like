@@ -6,11 +6,11 @@ A samll demo of a Mine Sweeper like game, made with phaserjs.
 
 <table>
   <tr>
-    <td align="center">
-      <img src="readme/screenshot_001.png " title="Screenshot Gameplay - Game in progress" alt="Game in progress"/>
+    <td align="center" width="50%">
+      <img src="readme/screenshot_001.png " title="Screenshot Gameplay - Game in progress" alt="Game in progress" />
         <i>Screenshot Gameplay - Game in progress</i>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="readme/screenshot_002.png" title="Screenshot Gameplay - Win Screen" alt="Win Screen" />
         <i>Screenshot Gameplay - Win Screen</i>
     </td>
